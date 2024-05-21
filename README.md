@@ -55,5 +55,5 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-If you have any questions or want to get in touch, you can reach me at [your_email@example.com](mailto:hammad.mehmood898@gmail.com).
+If you have any questions or want to get in touch, you can reach me at [hammad.mehmood898@gmail.com](mailto:hammad.mehmood898@gmail.com).
 
